@@ -59,8 +59,6 @@ services:
       - ./data/notebooks:/current_dir
     ports:
       - "8888:8888"
-    links:
-      - mongo
 
   mongo-express:
     image: mongo-express
