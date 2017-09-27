@@ -66,3 +66,5 @@ RUN julia -e 'using IJulia' && julia -e 'using Gadfly' && julia -e 'using RDatas
 WORKDIR /current_dir
 
 USER jovyan
+
+RUN pip install -U scikit-learn
