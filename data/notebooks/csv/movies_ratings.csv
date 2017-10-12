@@ -1,0 +1,1124 @@
+movieId,title,rating,genre
+1,Toy Story (1995),5.0,Adventure
+1,Toy Story (1995),5.0,Animation
+1,Toy Story (1995),5.0,Children
+1,Toy Story (1995),5.0,Comedy
+1,Toy Story (1995),5.0,Fantasy
+5,Father of the Bride Part II (1995),4.5,Comedy
+47,Seven (a.k.a. Se7en) (1995),2.75,Mystery
+47,Seven (a.k.a. Se7en) (1995),2.75,Thriller
+104,Happy Gilmore (1996),2.0,Comedy
+111,Taxi Driver (1976),5.0,Crime
+111,Taxi Driver (1976),5.0,Drama
+111,Taxi Driver (1976),5.0,Thriller
+150,Apollo 13 (1995),3.75,Adventure
+150,Apollo 13 (1995),3.75,Drama
+150,Apollo 13 (1995),3.75,IMAX
+186,Nine Months (1995),2.5,Comedy
+186,Nine Months (1995),2.5,Romance
+215,Before Sunrise (1995),5.0,Drama
+215,Before Sunrise (1995),5.0,Romance
+236,French Kiss (1995),3.0,Action
+236,French Kiss (1995),3.0,Comedy
+236,French Kiss (1995),3.0,Romance
+246,Hoop Dreams (1994),4.0,Documentary
+247,Heavenly Creatures (1994),5.0,Crime
+247,Heavenly Creatures (1994),5.0,Drama
+260,Star Wars: Episode IV - A New Hope (1977),4.5,Action
+260,Star Wars: Episode IV - A New Hope (1977),4.5,Adventure
+260,Star Wars: Episode IV - A New Hope (1977),4.5,Sci-Fi
+293,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),0.5,Action
+293,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),0.5,Crime
+293,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),0.5,Drama
+293,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),0.5,Thriller
+296,Pulp Fiction (1994),4.5,Comedy
+296,Pulp Fiction (1994),4.5,Crime
+296,Pulp Fiction (1994),4.5,Drama
+296,Pulp Fiction (1994),4.5,Thriller
+318,"Shawshank Redemption, The (1994)",4.75,Crime
+318,"Shawshank Redemption, The (1994)",4.75,Drama
+337,What's Eating Gilbert Grape (1993),5.0,Drama
+339,While You Were Sleeping (1995),2.5,Comedy
+339,While You Were Sleeping (1995),2.5,Romance
+350,"Client, The (1994)",3.0,Drama
+350,"Client, The (1994)",3.0,Mystery
+350,"Client, The (1994)",3.0,Thriller
+357,Four Weddings and a Funeral (1994),2.0,Comedy
+357,Four Weddings and a Funeral (1994),2.0,Romance
+377,Speed (1994),2.0,Action
+377,Speed (1994),2.0,Romance
+377,Speed (1994),2.0,Thriller
+520,Robin Hood: Men in Tights (1993),3.0,Comedy
+529,Searching for Bobby Fischer (1993),4.0,Drama
+541,Blade Runner (1982),3.5,Action
+541,Blade Runner (1982),3.5,Sci-Fi
+541,Blade Runner (1982),3.5,Thriller
+587,Ghost (1990),4.0,Comedy
+587,Ghost (1990),4.0,Drama
+587,Ghost (1990),4.0,Fantasy
+587,Ghost (1990),4.0,Romance
+587,Ghost (1990),4.0,Thriller
+608,Fargo (1996),3.25,Comedy
+608,Fargo (1996),3.25,Crime
+608,Fargo (1996),3.25,Drama
+608,Fargo (1996),3.25,Thriller
+628,Primal Fear (1996),5.0,Crime
+628,Primal Fear (1996),5.0,Drama
+628,Primal Fear (1996),5.0,Mystery
+628,Primal Fear (1996),5.0,Thriller
+661,James and the Giant Peach (1996),3.0,Adventure
+661,James and the Giant Peach (1996),3.0,Animation
+661,James and the Giant Peach (1996),3.0,Children
+661,James and the Giant Peach (1996),3.0,Fantasy
+661,James and the Giant Peach (1996),3.0,Musical
+741,Ghost in the Shell (Kôkaku kidôtai) (1995),5.0,Animation
+741,Ghost in the Shell (Kôkaku kidôtai) (1995),5.0,Sci-Fi
+745,Wallace & Gromit: A Close Shave (1995),4.5,Animation
+745,Wallace & Gromit: A Close Shave (1995),4.5,Children
+745,Wallace & Gromit: A Close Shave (1995),4.5,Comedy
+778,Trainspotting (1996),5.0,Comedy
+778,Trainspotting (1996),5.0,Crime
+778,Trainspotting (1996),5.0,Drama
+904,Rear Window (1954),4.0,Mystery
+904,Rear Window (1954),4.0,Thriller
+924,2001: A Space Odyssey (1968),1.0,Adventure
+924,2001: A Space Odyssey (1968),1.0,Drama
+924,2001: A Space Odyssey (1968),1.0,Sci-Fi
+954,Mr. Smith Goes to Washington (1939),4.5,Drama
+1028,Mary Poppins (1964),5.0,Children
+1028,Mary Poppins (1964),5.0,Comedy
+1028,Mary Poppins (1964),5.0,Fantasy
+1028,Mary Poppins (1964),5.0,Musical
+1036,Die Hard (1988),3.5,Action
+1036,Die Hard (1988),3.5,Crime
+1036,Die Hard (1988),3.5,Thriller
+1059,William Shakespeare's Romeo + Juliet (1996),5.0,Drama
+1059,William Shakespeare's Romeo + Juliet (1996),5.0,Romance
+1061,Sleepers (1996),4.0,Thriller
+1079,"Fish Called Wanda, A (1988)",4.5,Comedy
+1079,"Fish Called Wanda, A (1988)",4.5,Crime
+1080,Monty Python's Life of Brian (1979),5.0,Comedy
+1088,Dirty Dancing (1987),5.0,Drama
+1088,Dirty Dancing (1987),5.0,Musical
+1088,Dirty Dancing (1987),5.0,Romance
+1089,Reservoir Dogs (1992),5.0,Crime
+1089,Reservoir Dogs (1992),5.0,Mystery
+1089,Reservoir Dogs (1992),5.0,Thriller
+1103,Rebel Without a Cause (1955),2.0,Drama
+1131,Jean de Florette (1986),4.5,Drama
+1131,Jean de Florette (1986),4.5,Mystery
+1153,Raw Deal (1948),3.0,Film-Noir
+1172,Cinema Paradiso (Nuovo cinema Paradiso) (1989),5.0,Drama
+1199,Brazil (1985),4.5,Fantasy
+1199,Brazil (1985),4.5,Sci-Fi
+1210,Star Wars: Episode VI - Return of the Jedi (1983),0.5,Action
+1210,Star Wars: Episode VI - Return of the Jedi (1983),0.5,Adventure
+1210,Star Wars: Episode VI - Return of the Jedi (1983),0.5,Sci-Fi
+1219,Psycho (1960),5.0,Crime
+1219,Psycho (1960),5.0,Horror
+1242,Glory (1989),5.0,Drama
+1242,Glory (1989),5.0,War
+1250,"Bridge on the River Kwai, The (1957)",3.0,Adventure
+1250,"Bridge on the River Kwai, The (1957)",3.0,Drama
+1250,"Bridge on the River Kwai, The (1957)",3.0,War
+1256,Duck Soup (1933),5.0,Comedy
+1256,Duck Soup (1933),5.0,Musical
+1256,Duck Soup (1933),5.0,War
+1258,"Shining, The (1980)",3.3333333333333335,Horror
+1259,Stand by Me (1986),5.0,Adventure
+1259,Stand by Me (1986),5.0,Drama
+1265,Groundhog Day (1993),5.0,Comedy
+1265,Groundhog Day (1993),5.0,Fantasy
+1265,Groundhog Day (1993),5.0,Romance
+1274,Akira (1988),2.0,Action
+1274,Akira (1988),2.0,Adventure
+1274,Akira (1988),2.0,Animation
+1274,Akira (1988),2.0,Sci-Fi
+1291,Indiana Jones and the Last Crusade (1989),4.0,Action
+1291,Indiana Jones and the Last Crusade (1989),4.0,Adventure
+1358,Sling Blade (1996),3.0,Drama
+1376,Star Trek IV: The Voyage Home (1986),1.0,Adventure
+1376,Star Trek IV: The Voyage Home (1986),1.0,Comedy
+1376,Star Trek IV: The Voyage Home (1986),1.0,Sci-Fi
+1517,Austin Powers: International Man of Mystery (1997),2.0,Action
+1517,Austin Powers: International Man of Mystery (1997),2.0,Adventure
+1517,Austin Powers: International Man of Mystery (1997),2.0,Comedy
+1635,"Ice Storm, The (1997)",5.0,Drama
+1639,Chasing Amy (1997),5.0,Comedy
+1639,Chasing Amy (1997),5.0,Drama
+1639,Chasing Amy (1997),5.0,Romance
+1721,Titanic (1997),4.0,Drama
+1721,Titanic (1997),4.0,Romance
+1729,Jackie Brown (1997),5.0,Crime
+1729,Jackie Brown (1997),5.0,Drama
+1729,Jackie Brown (1997),5.0,Thriller
+1732,"Big Lebowski, The (1998)",4.0,Comedy
+1732,"Big Lebowski, The (1998)",4.0,Crime
+1801,"Man in the Iron Mask, The (1998)",3.0,Action
+1801,"Man in the Iron Mask, The (1998)",3.0,Adventure
+1801,"Man in the Iron Mask, The (1998)",3.0,Drama
+1954,Rocky (1976),4.0,Drama
+1955,Kramer vs. Kramer (1979),4.5,Drama
+1956,Ordinary People (1980),4.5,Drama
+1997,"Exorcist, The (1973)",0.5,Horror
+1997,"Exorcist, The (1973)",0.5,Mystery
+2004,Gremlins 2: The New Batch (1990),0.5,Comedy
+2004,Gremlins 2: The New Batch (1990),0.5,Horror
+2012,Back to the Future Part III (1990),3.0,Adventure
+2012,Back to the Future Part III (1990),3.0,Comedy
+2012,Back to the Future Part III (1990),3.0,Sci-Fi
+2012,Back to the Future Part III (1990),3.0,Western
+2019,Seven Samurai (Shichinin no samurai) (1954),3.0,Action
+2019,Seven Samurai (Shichinin no samurai) (1954),3.0,Adventure
+2019,Seven Samurai (Shichinin no samurai) (1954),3.0,Drama
+2082,"Mighty Ducks, The (1992)",5.0,Children
+2082,"Mighty Ducks, The (1992)",5.0,Comedy
+2085,101 Dalmatians (One Hundred and One Dalmatians) (1961),3.0,Adventure
+2085,101 Dalmatians (One Hundred and One Dalmatians) (1961),3.0,Animation
+2085,101 Dalmatians (One Hundred and One Dalmatians) (1961),3.0,Children
+2174,Beetlejuice (1988),3.5,Comedy
+2174,Beetlejuice (1988),3.5,Fantasy
+2288,"Thing, The (1982)",5.0,Action
+2288,"Thing, The (1982)",5.0,Horror
+2288,"Thing, The (1982)",5.0,Sci-Fi
+2288,"Thing, The (1982)",5.0,Thriller
+2359,Waking Ned Devine (a.k.a. Waking Ned) (1998),3.5,Comedy
+2361,Pink Flamingos (1972),4.0,Comedy
+2369,Desperately Seeking Susan (1985),3.0,Comedy
+2369,Desperately Seeking Susan (1985),3.0,Drama
+2369,Desperately Seeking Susan (1985),3.0,Romance
+2396,Shakespeare in Love (1998),5.0,Comedy
+2396,Shakespeare in Love (1998),5.0,Drama
+2396,Shakespeare in Love (1998),5.0,Romance
+2424,You've Got Mail (1998),5.0,Comedy
+2424,You've Got Mail (1998),5.0,Romance
+2502,Office Space (1999),3.0,Comedy
+2502,Office Space (1999),3.0,Crime
+2529,Planet of the Apes (1968),5.0,Action
+2529,Planet of the Apes (1968),5.0,Drama
+2529,Planet of the Apes (1968),5.0,Sci-Fi
+2542,"Lock, Stock & Two Smoking Barrels (1998)",5.0,Comedy
+2542,"Lock, Stock & Two Smoking Barrels (1998)",5.0,Crime
+2542,"Lock, Stock & Two Smoking Barrels (1998)",5.0,Thriller
+2571,"Matrix, The (1999)",4.75,Action
+2571,"Matrix, The (1999)",4.75,Sci-Fi
+2571,"Matrix, The (1999)",4.75,Thriller
+2641,Superman II (1980),2.5,Action
+2641,Superman II (1980),2.5,Sci-Fi
+2692,Run Lola Run (Lola rennt) (1998),5.0,Action
+2692,Run Lola Run (Lola rennt) (1998),5.0,Crime
+2700,"South Park: Bigger, Longer and Uncut (1999)",0.5,Animation
+2700,"South Park: Bigger, Longer and Uncut (1999)",0.5,Comedy
+2700,"South Park: Bigger, Longer and Uncut (1999)",0.5,Musical
+2924,Drunken Master (Jui kuen) (1978),5.0,Action
+2924,Drunken Master (Jui kuen) (1978),5.0,Comedy
+2942,Flashdance (1983),4.5,Drama
+2942,Flashdance (1983),4.5,Romance
+2959,Fight Club (1999),5.0,Action
+2959,Fight Club (1999),5.0,Crime
+2959,Fight Club (1999),5.0,Drama
+2959,Fight Club (1999),5.0,Thriller
+2968,Time Bandits (1981),4.0,Adventure
+2968,Time Bandits (1981),4.0,Comedy
+2968,Time Bandits (1981),4.0,Fantasy
+2968,Time Bandits (1981),4.0,Sci-Fi
+2997,Being John Malkovich (1999),5.0,Comedy
+2997,Being John Malkovich (1999),5.0,Drama
+2997,Being John Malkovich (1999),5.0,Fantasy
+3022,"General, The (1926)",4.5,Comedy
+3022,"General, The (1926)",4.5,War
+3030,Yojimbo (1961),5.0,Action
+3030,Yojimbo (1961),5.0,Adventure
+3052,Dogma (1999),4.0,Adventure
+3052,Dogma (1999),4.0,Comedy
+3052,Dogma (1999),4.0,Fantasy
+3113,End of Days (1999),0.5,Action
+3113,End of Days (1999),0.5,Fantasy
+3113,End of Days (1999),0.5,Horror
+3113,End of Days (1999),0.5,Mystery
+3113,End of Days (1999),0.5,Thriller
+3114,Toy Story 2 (1999),4.5,Adventure
+3114,Toy Story 2 (1999),4.5,Animation
+3114,Toy Story 2 (1999),4.5,Children
+3114,Toy Story 2 (1999),4.5,Comedy
+3114,Toy Story 2 (1999),4.5,Fantasy
+3176,"Talented Mr. Ripley, The (1999)",4.5,Drama
+3176,"Talented Mr. Ripley, The (1999)",4.5,Mystery
+3176,"Talented Mr. Ripley, The (1999)",4.5,Thriller
+3257,"Bodyguard, The (1992)",2.0,Drama
+3257,"Bodyguard, The (1992)",2.0,Romance
+3257,"Bodyguard, The (1992)",2.0,Thriller
+3260,Howards End (1992),3.0,Drama
+3265,Hard-Boiled (Lat sau san taam) (1992),4.0,Action
+3265,Hard-Boiled (Lat sau san taam) (1992),4.0,Crime
+3265,Hard-Boiled (Lat sau san taam) (1992),4.0,Drama
+3265,Hard-Boiled (Lat sau san taam) (1992),4.0,Thriller
+3275,"Boondock Saints, The (2000)",4.0,Action
+3275,"Boondock Saints, The (2000)",4.0,Crime
+3275,"Boondock Saints, The (2000)",4.0,Drama
+3275,"Boondock Saints, The (2000)",4.0,Thriller
+3300,Pitch Black (2000),3.5,Horror
+3300,Pitch Black (2000),3.5,Sci-Fi
+3300,Pitch Black (2000),3.5,Thriller
+3301,"Whole Nine Yards, The (2000)",3.0,Comedy
+3301,"Whole Nine Yards, The (2000)",3.0,Crime
+3361,Bull Durham (1988),4.0,Comedy
+3361,Bull Durham (1988),4.0,Drama
+3361,Bull Durham (1988),4.0,Romance
+3546,What Ever Happened to Baby Jane? (1962),4.5,Drama
+3546,What Ever Happened to Baby Jane? (1962),4.5,Horror
+3546,What Ever Happened to Baby Jane? (1962),4.5,Thriller
+3676,Eraserhead (1977),4.5,Drama
+3676,Eraserhead (1977),4.5,Horror
+3703,"Road Warrior, The (Mad Max 2) (1981)",5.0,Action
+3703,"Road Warrior, The (Mad Max 2) (1981)",5.0,Adventure
+3703,"Road Warrior, The (Mad Max 2) (1981)",5.0,Sci-Fi
+3703,"Road Warrior, The (Mad Max 2) (1981)",5.0,Thriller
+3751,Chicken Run (2000),3.0,Animation
+3751,Chicken Run (2000),3.0,Children
+3751,Chicken Run (2000),3.0,Comedy
+3785,Scary Movie (2000),2.0,Comedy
+3785,Scary Movie (2000),2.0,Horror
+3793,X-Men (2000),3.5,Action
+3793,X-Men (2000),3.5,Adventure
+3793,X-Men (2000),3.5,Sci-Fi
+3809,What About Bob? (1991),2.5,Comedy
+3882,Bring It On (2000),2.0,Comedy
+3893,Nurse Betty (2000),4.0,Comedy
+3893,Nurse Betty (2000),4.0,Crime
+3893,Nurse Betty (2000),4.0,Drama
+3893,Nurse Betty (2000),4.0,Romance
+3893,Nurse Betty (2000),4.0,Thriller
+3948,Meet the Parents (2000),0.5,Comedy
+3949,Requiem for a Dream (2000),5.0,Drama
+3978,"Legend of Bagger Vance, The (2000)",2.0,Drama
+3978,"Legend of Bagger Vance, The (2000)",2.0,Romance
+3994,Unbreakable (2000),3.0,Drama
+3994,Unbreakable (2000),3.0,Sci-Fi
+3996,"Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)",4.0,Action
+3996,"Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)",4.0,Drama
+3996,"Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)",4.0,Romance
+4011,Snatch (2000),5.0,Comedy
+4011,Snatch (2000),5.0,Crime
+4011,Snatch (2000),5.0,Thriller
+4016,"Emperor's New Groove, The (2000)",2.0,Adventure
+4016,"Emperor's New Groove, The (2000)",2.0,Animation
+4016,"Emperor's New Groove, The (2000)",2.0,Children
+4016,"Emperor's New Groove, The (2000)",2.0,Comedy
+4016,"Emperor's New Groove, The (2000)",2.0,Fantasy
+4018,What Women Want (2000),4.0,Comedy
+4018,What Women Want (2000),4.0,Romance
+4041,"Officer and a Gentleman, An (1982)",3.5,Drama
+4041,"Officer and a Gentleman, An (1982)",3.5,Romance
+4069,"Wedding Planner, The (2001)",2.5,Comedy
+4069,"Wedding Planner, The (2001)",2.5,Romance
+4226,Memento (2000),5.0,Mystery
+4226,Memento (2000),5.0,Thriller
+4306,Shrek (2001),4.0,Adventure
+4306,Shrek (2001),4.0,Animation
+4306,Shrek (2001),4.0,Children
+4306,Shrek (2001),4.0,Comedy
+4306,Shrek (2001),4.0,Fantasy
+4306,Shrek (2001),4.0,Romance
+4322,Eight Men Out (1988),3.5,Drama
+4351,Point Break (1991),2.5,Action
+4351,Point Break (1991),2.5,Crime
+4351,Point Break (1991),2.5,Thriller
+4467,"Adventures of Baron Munchausen, The (1988)",4.0,Adventure
+4467,"Adventures of Baron Munchausen, The (1988)",4.0,Comedy
+4467,"Adventures of Baron Munchausen, The (1988)",4.0,Fantasy
+4641,Ghost World (2001),4.0,Comedy
+4641,Ghost World (2001),4.0,Drama
+4701,Rush Hour 2 (2001),3.5,Action
+4701,Rush Hour 2 (2001),3.5,Comedy
+4721,American Outlaws (2001),2.5,Action
+4721,American Outlaws (2001),2.5,Comedy
+4721,American Outlaws (2001),2.5,Western
+4823,Serendipity (2001),3.5,Comedy
+4823,Serendipity (2001),3.5,Romance
+4890,Shallow Hal (2001),2.5,Comedy
+4890,Shallow Hal (2001),2.5,Fantasy
+4890,Shallow Hal (2001),2.5,Romance
+4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",4.5,Comedy
+4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",4.5,Romance
+4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",4.0,Adventure
+4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",4.0,Fantasy
+4995,"Beautiful Mind, A (2001)",4.5,Drama
+4995,"Beautiful Mind, A (2001)",4.5,Romance
+5064,The Count of Monte Cristo (2002),3.5,Action
+5064,The Count of Monte Cristo (2002),3.5,Adventure
+5064,The Count of Monte Cristo (2002),3.5,Drama
+5064,The Count of Monte Cristo (2002),3.5,Thriller
+5135,Monsoon Wedding (2001),4.5,Comedy
+5135,Monsoon Wedding (2001),4.5,Romance
+5219,Resident Evil (2002),3.0,Action
+5219,Resident Evil (2002),3.0,Horror
+5219,Resident Evil (2002),3.0,Sci-Fi
+5219,Resident Evil (2002),3.0,Thriller
+5349,Spider-Man (2002),4.0,Action
+5349,Spider-Man (2002),4.0,Adventure
+5349,Spider-Man (2002),4.0,Sci-Fi
+5349,Spider-Man (2002),4.0,Thriller
+5377,About a Boy (2002),5.0,Comedy
+5377,About a Boy (2002),5.0,Drama
+5377,About a Boy (2002),5.0,Romance
+5445,Minority Report (2002),3.5,Action
+5445,Minority Report (2002),3.5,Crime
+5445,Minority Report (2002),3.5,Mystery
+5445,Minority Report (2002),3.5,Sci-Fi
+5445,Minority Report (2002),3.5,Thriller
+5449,Mr. Deeds (2002),0.5,Comedy
+5449,Mr. Deeds (2002),0.5,Romance
+5481,Austin Powers in Goldmember (2002),2.5,Comedy
+5507,xXx (2002),2.0,Action
+5507,xXx (2002),2.0,Crime
+5507,xXx (2002),2.0,Thriller
+5608,"Das Experiment (Experiment, The) (2001)",5.0,Drama
+5608,"Das Experiment (Experiment, The) (2001)",5.0,Thriller
+5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),5.0,Adventure
+5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),5.0,Animation
+5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),5.0,Fantasy
+5662,"Wrong Guy, The (1997)",4.5,Comedy
+5662,"Wrong Guy, The (1997)",4.5,Romance
+5662,"Wrong Guy, The (1997)",4.5,Thriller
+5782,"Professional, The (Le professionnel) (1981)",5.0,Action
+5782,"Professional, The (Le professionnel) (1981)",5.0,Drama
+5782,"Professional, The (Le professionnel) (1981)",5.0,Thriller
+5795,"Big Knife, The (1955)",3.5,Film-Noir
+5812,Far from Heaven (2002),4.5,Drama
+5812,Far from Heaven (2002),4.5,Romance
+5902,Adaptation (2002),2.0,Comedy
+5902,Adaptation (2002),2.0,Drama
+5902,Adaptation (2002),2.0,Romance
+5952,"Lord of the Rings: The Two Towers, The (2002)",1.0,Adventure
+5952,"Lord of the Rings: The Two Towers, The (2002)",1.0,Fantasy
+5971,My Neighbor Totoro (Tonari no Totoro) (1988),5.0,Animation
+5971,My Neighbor Totoro (Tonari no Totoro) (1988),5.0,Children
+5971,My Neighbor Totoro (Tonari no Totoro) (1988),5.0,Drama
+5971,My Neighbor Totoro (Tonari no Totoro) (1988),5.0,Fantasy
+6016,City of God (Cidade de Deus) (2002),5.0,Action
+6016,City of God (Cidade de Deus) (2002),5.0,Adventure
+6016,City of God (Cidade de Deus) (2002),5.0,Crime
+6016,City of God (Cidade de Deus) (2002),5.0,Drama
+6016,City of God (Cidade de Deus) (2002),5.0,Thriller
+6218,Bend It Like Beckham (2002),3.5,Comedy
+6218,Bend It Like Beckham (2002),3.5,Drama
+6218,Bend It Like Beckham (2002),3.5,Romance
+6281,Phone Booth (2002),4.0,Drama
+6281,Phone Booth (2002),4.0,Thriller
+6287,Anger Management (2003),2.0,Comedy
+6350,Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986),4.25,Action
+6350,Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986),4.25,Adventure
+6350,Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986),4.25,Animation
+6350,Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986),4.25,Children
+6350,Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986),4.25,Fantasy
+6350,Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986),4.25,Sci-Fi
+6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.5,Action
+6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.5,Adventure
+6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.5,Comedy
+6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.5,Fantasy
+6713,Millennium Actress (Sennen joyû) (2001),5.0,Animation
+6713,Millennium Actress (Sennen joyû) (2001),5.0,Drama
+6713,Millennium Actress (Sennen joyû) (2001),5.0,Romance
+6754,Underworld (2003),4.5,Action
+6754,Underworld (2003),4.5,Fantasy
+6754,Underworld (2003),4.5,Horror
+6857,Ninja Scroll (Jûbei ninpûchô) (1995),4.0,Action
+6857,Ninja Scroll (Jûbei ninpûchô) (1995),4.0,Adventure
+6857,Ninja Scroll (Jûbei ninpûchô) (1995),4.0,Animation
+6857,Ninja Scroll (Jûbei ninpûchô) (1995),4.0,Fantasy
+6863,School of Rock (2003),5.0,Comedy
+6863,School of Rock (2003),5.0,Musical
+6942,Love Actually (2003),4.5,Comedy
+6942,Love Actually (2003),4.5,Drama
+6942,Love Actually (2003),4.5,Romance
+6953,21 Grams (2003),4.0,Crime
+6953,21 Grams (2003),4.0,Drama
+6953,21 Grams (2003),4.0,Mystery
+6953,21 Grams (2003),4.0,Romance
+6953,21 Grams (2003),4.0,Thriller
+6985,"Passion of Joan of Arc, The (Passion de Jeanne d'Arc, La) (1928)",5.0,Drama
+7022,Battle Royale (Batoru rowaiaru) (2000),5.0,Action
+7022,Battle Royale (Batoru rowaiaru) (2000),5.0,Drama
+7022,Battle Royale (Batoru rowaiaru) (2000),5.0,Horror
+7022,Battle Royale (Batoru rowaiaru) (2000),5.0,Thriller
+7090,Hero (Ying xiong) (2002),4.5,Action
+7090,Hero (Ying xiong) (2002),4.5,Adventure
+7090,Hero (Ying xiong) (2002),4.5,Drama
+7153,"Lord of the Rings: The Return of the King, The (2003)",1.0,Action
+7153,"Lord of the Rings: The Return of the King, The (2003)",1.0,Adventure
+7153,"Lord of the Rings: The Return of the King, The (2003)",1.0,Drama
+7153,"Lord of the Rings: The Return of the King, The (2003)",1.0,Fantasy
+7161,Cheaper by the Dozen (2003),3.5,Children
+7161,Cheaper by the Dozen (2003),3.5,Comedy
+7361,Eternal Sunshine of the Spotless Mind (2004),4.5,Drama
+7361,Eternal Sunshine of the Spotless Mind (2004),4.5,Romance
+7361,Eternal Sunshine of the Spotless Mind (2004),4.5,Sci-Fi
+7373,Hellboy (2004),3.0,Action
+7373,Hellboy (2004),3.0,Adventure
+7373,Hellboy (2004),3.0,Fantasy
+7373,Hellboy (2004),3.0,Horror
+7376,Walking Tall (2004),3.0,Action
+7458,Troy (2004),2.5,Action
+7458,Troy (2004),2.5,Adventure
+7458,Troy (2004),2.5,Drama
+7458,Troy (2004),2.5,War
+7844,"Legend, The (Legend of Fong Sai-Yuk, The) (Fong Sai Yuk) (1993)",5.0,Action
+7844,"Legend, The (Legend of Fong Sai-Yuk, The) (Fong Sai Yuk) (1993)",5.0,Comedy
+8125,Sunrise: A Song of Two Humans (1927),4.0,Drama
+8125,Sunrise: A Song of Two Humans (1927),4.0,Romance
+8369,Mindhunters (2004),4.5,Action
+8369,Mindhunters (2004),4.5,Crime
+8369,Mindhunters (2004),4.5,Horror
+8369,Mindhunters (2004),4.5,Mystery
+8369,Mindhunters (2004),4.5,Thriller
+8464,Super Size Me (2004),4.5,Comedy
+8464,Super Size Me (2004),4.5,Documentary
+8464,Super Size Me (2004),4.5,Drama
+8528,Dodgeball: A True Underdog Story (2004),2.0,Comedy
+8533,"Notebook, The (2004)",1.0,Drama
+8533,"Notebook, The (2004)",1.0,Romance
+8623,Roxanne (1987),4.0,Comedy
+8623,Roxanne (1987),4.0,Romance
+8636,Spider-Man 2 (2004),5.0,Action
+8636,Spider-Man 2 (2004),5.0,Adventure
+8636,Spider-Man 2 (2004),5.0,Sci-Fi
+8636,Spider-Man 2 (2004),5.0,IMAX
+8795,Musa the Warrior (Musa) (2001),2.5,Action
+8795,Musa the Warrior (Musa) (2001),2.5,Adventure
+8795,Musa the Warrior (Musa) (2001),2.5,Drama
+8795,Musa the Warrior (Musa) (2001),2.5,War
+8861,Resident Evil: Apocalypse (2004),2.5,Action
+8861,Resident Evil: Apocalypse (2004),2.5,Horror
+8861,Resident Evil: Apocalypse (2004),2.5,Sci-Fi
+8861,Resident Evil: Apocalypse (2004),2.5,Thriller
+8865,Sky Captain and the World of Tomorrow (2004),4.5,Action
+8865,Sky Captain and the World of Tomorrow (2004),4.5,Adventure
+8865,Sky Captain and the World of Tomorrow (2004),4.5,Sci-Fi
+8874,Shaun of the Dead (2004),5.0,Comedy
+8874,Shaun of the Dead (2004),5.0,Horror
+8928,"Fearless Vampire Killers, The (1967)",4.0,Comedy
+8928,"Fearless Vampire Killers, The (1967)",4.0,Horror
+8961,"Incredibles, The (2004)",4.0,Action
+8961,"Incredibles, The (2004)",4.0,Adventure
+8961,"Incredibles, The (2004)",4.0,Animation
+8961,"Incredibles, The (2004)",4.0,Children
+8961,"Incredibles, The (2004)",4.0,Comedy
+8972,National Treasure (2004),3.0,Action
+8972,National Treasure (2004),3.0,Adventure
+8972,National Treasure (2004),3.0,Drama
+8972,National Treasure (2004),3.0,Mystery
+8972,National Treasure (2004),3.0,Thriller
+26554,"Quiet Earth, The (1985)",4.5,Drama
+26554,"Quiet Earth, The (1985)",4.5,Mystery
+26554,"Quiet Earth, The (1985)",4.5,Sci-Fi
+26585,"Better Tomorrow, A (Ying hung boon sik) (1986)",3.5,Crime
+26585,"Better Tomorrow, A (Ying hung boon sik) (1986)",3.5,Drama
+26585,"Better Tomorrow, A (Ying hung boon sik) (1986)",3.5,Thriller
+26662,Kiki's Delivery Service (Majo no takkyûbin) (1989),2.0,Adventure
+26662,Kiki's Delivery Service (Majo no takkyûbin) (1989),2.0,Animation
+26662,Kiki's Delivery Service (Majo no takkyûbin) (1989),2.0,Children
+26662,Kiki's Delivery Service (Majo no takkyûbin) (1989),2.0,Drama
+26662,Kiki's Delivery Service (Majo no takkyûbin) (1989),2.0,Fantasy
+27255,"Wind Will Carry Us, The (Bad ma ra khahad bord) (1999)",2.5,Drama
+27592,Sympathy for Mr. Vengeance (Boksuneun naui geot) (2002),5.0,Crime
+27592,Sympathy for Mr. Vengeance (Boksuneun naui geot) (2002),5.0,Drama
+27611,Battlestar Galactica (2003),0.5,Drama
+27611,Battlestar Galactica (2003),0.5,Sci-Fi
+27611,Battlestar Galactica (2003),0.5,War
+27773,Old Boy (2003),5.0,Mystery
+27773,Old Boy (2003),5.0,Thriller
+27904,"Scanner Darkly, A (2006)",3.0,Animation
+27904,"Scanner Darkly, A (2006)",3.0,Drama
+27904,"Scanner Darkly, A (2006)",3.0,Mystery
+27904,"Scanner Darkly, A (2006)",3.0,Sci-Fi
+27904,"Scanner Darkly, A (2006)",3.0,Thriller
+30745,Gozu (Gokudô kyôfu dai-gekijô: Gozu) (2003),5.0,Comedy
+30745,Gozu (Gokudô kyôfu dai-gekijô: Gozu) (2003),5.0,Crime
+30745,Gozu (Gokudô kyôfu dai-gekijô: Gozu) (2003),5.0,Drama
+30745,Gozu (Gokudô kyôfu dai-gekijô: Gozu) (2003),5.0,Horror
+30745,Gozu (Gokudô kyôfu dai-gekijô: Gozu) (2003),5.0,Mystery
+31221,Elektra (2005),1.5,Action
+31221,Elektra (2005),1.5,Adventure
+31221,Elektra (2005),1.5,Crime
+31221,Elektra (2005),1.5,Drama
+31658,Howl's Moving Castle (Hauru no ugoku shiro) (2004),5.0,Adventure
+31658,Howl's Moving Castle (Hauru no ugoku shiro) (2004),5.0,Animation
+31658,Howl's Moving Castle (Hauru no ugoku shiro) (2004),5.0,Fantasy
+31658,Howl's Moving Castle (Hauru no ugoku shiro) (2004),5.0,Romance
+31878,Kung Fu Hustle (Gong fu) (2004),5.0,Action
+31878,Kung Fu Hustle (Gong fu) (2004),5.0,Comedy
+33794,Batman Begins (2005),1.0,Action
+33794,Batman Begins (2005),1.0,Crime
+33794,Batman Begins (2005),1.0,IMAX
+34162,Wedding Crashers (2005),1.0,Comedy
+34162,Wedding Crashers (2005),1.0,Romance
+34321,Bad News Bears (2005),5.0,Children
+34321,Bad News Bears (2005),5.0,Comedy
+34405,Serenity (2005),4.0,Action
+34405,Serenity (2005),4.0,Adventure
+34405,Serenity (2005),4.0,Sci-Fi
+35836,"40-Year-Old Virgin, The (2005)",2.5,Comedy
+35836,"40-Year-Old Virgin, The (2005)",2.5,Romance
+35957,Red Eye (2005),2.5,Horror
+35957,Red Eye (2005),2.5,Thriller
+36401,"Brothers Grimm, The (2005)",4.0,Comedy
+36401,"Brothers Grimm, The (2005)",4.0,Fantasy
+36401,"Brothers Grimm, The (2005)",4.0,Horror
+36401,"Brothers Grimm, The (2005)",4.0,Thriller
+37729,Corpse Bride (2005),2.0,Animation
+37729,Corpse Bride (2005),2.0,Comedy
+37729,Corpse Bride (2005),2.0,Fantasy
+37729,Corpse Bride (2005),2.0,Musical
+37729,Corpse Bride (2005),2.0,Romance
+37733,"History of Violence, A (2005)",3.0,Action
+37733,"History of Violence, A (2005)",3.0,Crime
+37733,"History of Violence, A (2005)",3.0,Drama
+37733,"History of Violence, A (2005)",3.0,Thriller
+37741,Capote (2005),4.5,Crime
+37741,Capote (2005),4.5,Drama
+38304,No Direction Home: Bob Dylan (2005),4.5,Documentary
+39183,Brokeback Mountain (2005),5.0,Drama
+39183,Brokeback Mountain (2005),5.0,Romance
+40148,Revolver (2005),5.0,Crime
+40148,Revolver (2005),5.0,Drama
+40148,Revolver (2005),5.0,Thriller
+40614,Derailed (2005),3.0,Drama
+40614,Derailed (2005),3.0,Thriller
+40629,Pride & Prejudice (2005),4.5,Drama
+40629,Pride & Prejudice (2005),4.5,Romance
+40819,Walk the Line (2005),4.5,Drama
+40819,Walk the Line (2005),4.5,Musical
+40819,Walk the Line (2005),4.5,Romance
+41863,"Three Burials of Melquiades Estrada, The (2006)",4.0,Adventure
+41863,"Three Burials of Melquiades Estrada, The (2006)",4.0,Crime
+41863,"Three Burials of Melquiades Estrada, The (2006)",4.0,Drama
+44191,V for Vendetta (2006),5.0,Action
+44191,V for Vendetta (2006),5.0,Sci-Fi
+44191,V for Vendetta (2006),5.0,Thriller
+44191,V for Vendetta (2006),5.0,IMAX
+44199,Inside Man (2006),4.0,Crime
+44199,Inside Man (2006),4.0,Drama
+44199,Inside Man (2006),4.0,Thriller
+44555,"Lives of Others, The (Das leben der Anderen) (2006)",5.0,Drama
+44555,"Lives of Others, The (Das leben der Anderen) (2006)",5.0,Romance
+44555,"Lives of Others, The (Das leben der Anderen) (2006)",5.0,Thriller
+45028,"Prairie Home Companion, A (2006)",4.0,Comedy
+45028,"Prairie Home Companion, A (2006)",4.0,Drama
+45028,"Prairie Home Companion, A (2006)",4.0,Musical
+45210,United 93 (2006),4.5,Crime
+45210,United 93 (2006),4.5,Drama
+45720,"Devil Wears Prada, The (2006)",3.5,Comedy
+45720,"Devil Wears Prada, The (2006)",3.5,Drama
+45950,"Inconvenient Truth, An (2006)",3.0,Documentary
+46578,Little Miss Sunshine (2006),4.5,Adventure
+46578,Little Miss Sunshine (2006),4.5,Comedy
+46578,Little Miss Sunshine (2006),4.5,Drama
+46723,Babel (2006),4.0,Drama
+46723,Babel (2006),4.0,Thriller
+46970,Talladega Nights: The Ballad of Ricky Bobby (2006),4.5,Action
+46970,Talladega Nights: The Ballad of Ricky Bobby (2006),4.5,Comedy
+47044,Miami Vice (2006),3.5,Action
+47044,Miami Vice (2006),3.5,Crime
+47044,Miami Vice (2006),3.5,Drama
+47044,Miami Vice (2006),3.5,Thriller
+47099,"Pursuit of Happyness, The (2006)",4.25,Drama
+47423,Half Nelson (2006),4.0,Drama
+47629,The Queen (2006),4.5,Drama
+47640,Beerfest (2006),3.5,Comedy
+48394,"Pan's Labyrinth (Laberinto del fauno, El) (2006)",5.0,Drama
+48394,"Pan's Labyrinth (Laberinto del fauno, El) (2006)",5.0,Fantasy
+48394,"Pan's Labyrinth (Laberinto del fauno, El) (2006)",5.0,Thriller
+48516,"Departed, The (2006)",5.0,Crime
+48516,"Departed, The (2006)",5.0,Drama
+48516,"Departed, The (2006)",5.0,Thriller
+48696,Little Children (2006),4.5,Drama
+48696,Little Children (2006),4.5,Romance
+48738,"Last King of Scotland, The (2006)",4.0,Drama
+48738,"Last King of Scotland, The (2006)",4.0,Thriller
+48774,Children of Men (2006),4.5,Action
+48774,Children of Men (2006),4.5,Adventure
+48774,Children of Men (2006),4.5,Drama
+48774,Children of Men (2006),4.5,Sci-Fi
+48774,Children of Men (2006),4.5,Thriller
+48780,"Prestige, The (2006)",5.0,Drama
+48780,"Prestige, The (2006)",5.0,Mystery
+48780,"Prestige, The (2006)",5.0,Sci-Fi
+48780,"Prestige, The (2006)",5.0,Thriller
+49824,Dreamgirls (2006),4.5,Drama
+49824,Dreamgirls (2006),4.5,Musical
+51540,Zodiac (2007),4.0,Crime
+51540,Zodiac (2007),4.0,Drama
+51540,Zodiac (2007),4.0,Thriller
+52241,"Lookout, The (2007)",4.0,Crime
+52241,"Lookout, The (2007)",4.0,Drama
+52241,"Lookout, The (2007)",4.0,Thriller
+52885,Paprika (Papurika) (2006),5.0,Animation
+52885,Paprika (Papurika) (2006),5.0,Mystery
+52885,Paprika (Papurika) (2006),5.0,Sci-Fi
+52967,Away from Her (2006),4.0,Drama
+52973,Knocked Up (2007),3.0,Comedy
+52973,Knocked Up (2007),3.0,Drama
+52973,Knocked Up (2007),3.0,Romance
+53000,28 Weeks Later (2007),4.0,Horror
+53000,28 Weeks Later (2007),4.0,Sci-Fi
+53000,28 Weeks Later (2007),4.0,Thriller
+53123,Once (2006),4.0,Drama
+53123,Once (2006),4.0,Musical
+53123,Once (2006),4.0,Romance
+54272,"Simpsons Movie, The (2007)",4.5,Animation
+54272,"Simpsons Movie, The (2007)",4.5,Comedy
+54513,Talk to Me (2007),4.0,Drama
+54881,"King of Kong, The (2007)",4.0,Documentary
+55052,Atonement (2007),4.5,Drama
+55052,Atonement (2007),4.5,Romance
+55052,Atonement (2007),4.5,War
+55063,My Winnipeg (2007),5.0,Documentary
+55063,My Winnipeg (2007),5.0,Fantasy
+55118,Eastern Promises (2007),4.0,Crime
+55118,Eastern Promises (2007),4.0,Drama
+55118,Eastern Promises (2007),4.0,Thriller
+55247,Into the Wild (2007),5.0,Action
+55247,Into the Wild (2007),5.0,Adventure
+55247,Into the Wild (2007),5.0,Drama
+55253,"Lust, Caution (Se, jie) (2007)",4.5,Drama
+55253,"Lust, Caution (Se, jie) (2007)",4.5,Romance
+55253,"Lust, Caution (Se, jie) (2007)",4.5,Thriller
+55253,"Lust, Caution (Se, jie) (2007)",4.5,War
+55269,"Darjeeling Limited, The (2007)",4.0,Adventure
+55269,"Darjeeling Limited, The (2007)",4.0,Comedy
+55269,"Darjeeling Limited, The (2007)",4.0,Drama
+55276,Michael Clayton (2007),5.0,Drama
+55276,Michael Clayton (2007),5.0,Thriller
+55820,No Country for Old Men (2007),3.8333333333333335,Crime
+55820,No Country for Old Men (2007),3.8333333333333335,Drama
+56152,Enchanted (2007),4.0,Adventure
+56152,Enchanted (2007),4.0,Animation
+56152,Enchanted (2007),4.0,Children
+56152,Enchanted (2007),4.0,Comedy
+56152,Enchanted (2007),4.0,Fantasy
+56152,Enchanted (2007),4.0,Musical
+56152,Enchanted (2007),4.0,Romance
+56286,I'm Not There (2007),3.5,Drama
+56367,Juno (2007),4.25,Comedy
+56367,Juno (2007),4.25,Drama
+56367,Juno (2007),4.25,Romance
+56607,"Kite Runner, The (2007)",4.5,Drama
+56782,There Will Be Blood (2007),5.0,Drama
+56782,There Will Be Blood (2007),5.0,Western
+56788,Charlie Wilson's War (2007),4.0,Comedy
+56788,Charlie Wilson's War (2007),4.0,Drama
+56788,Charlie Wilson's War (2007),4.0,War
+56805,Walk Hard: The Dewey Cox Story (2007),4.5,Comedy
+56805,Walk Hard: The Dewey Cox Story (2007),4.5,Musical
+57669,In Bruges (2008),5.0,Comedy
+57669,In Bruges (2008),5.0,Crime
+57669,In Bruges (2008),5.0,Drama
+57669,In Bruges (2008),5.0,Thriller
+58559,"Dark Knight, The (2008)",5.0,Action
+58559,"Dark Knight, The (2008)",5.0,Crime
+58559,"Dark Knight, The (2008)",5.0,Drama
+58559,"Dark Knight, The (2008)",5.0,IMAX
+58879,Shine a Light (2008),4.5,Documentary
+58879,Shine a Light (2008),4.5,Musical
+58879,Shine a Light (2008),4.5,IMAX
+59725,Sex and the City (2008),4.5,Comedy
+59725,Sex and the City (2008),4.5,Romance
+60069,WALL·E (2008),5.0,Adventure
+60069,WALL·E (2008),5.0,Animation
+60069,WALL·E (2008),5.0,Children
+60069,WALL·E (2008),5.0,Romance
+60069,WALL·E (2008),5.0,Sci-Fi
+60072,Wanted (2008),5.0,Action
+60072,Wanted (2008),5.0,Thriller
+60684,Watchmen (2009),3.5,Action
+60684,Watchmen (2009),3.5,Drama
+60684,Watchmen (2009),3.5,Mystery
+60684,Watchmen (2009),3.5,Sci-Fi
+60684,Watchmen (2009),3.5,Thriller
+60684,Watchmen (2009),3.5,IMAX
+60766,Man on Wire (2008),4.0,Documentary
+61024,Pineapple Express (2008),4.0,Action
+61024,Pineapple Express (2008),4.0,Comedy
+61024,Pineapple Express (2008),4.0,Crime
+61323,Burn After Reading (2008),3.5,Comedy
+61323,Burn After Reading (2008),3.5,Crime
+61323,Burn After Reading (2008),3.5,Drama
+61357,Trouble the Water (2008),4.5,Documentary
+62849,RocknRolla (2008),5.0,Action
+62849,RocknRolla (2008),5.0,Crime
+63082,Slumdog Millionaire (2008),4.5,Crime
+63082,Slumdog Millionaire (2008),4.5,Drama
+63082,Slumdog Millionaire (2008),4.5,Romance
+63131,Role Models (2008),3.5,Comedy
+63876,Milk (2008),4.0,Drama
+63992,Twilight (2008),3.25,Drama
+63992,Twilight (2008),3.25,Fantasy
+63992,Twilight (2008),3.25,Romance
+63992,Twilight (2008),3.25,Thriller
+64614,Gran Torino (2008),4.0,Crime
+64614,Gran Torino (2008),4.0,Drama
+64620,Frost/Nixon (2008),3.5,Drama
+64622,"Reader, The (2008)",4.0,Drama
+64622,"Reader, The (2008)",4.0,Romance
+64839,"Wrestler, The (2008)",4.5,Drama
+64957,"Curious Case of Benjamin Button, The (2008)",4.0,Drama
+64957,"Curious Case of Benjamin Button, The (2008)",4.0,Fantasy
+64957,"Curious Case of Benjamin Button, The (2008)",4.0,Mystery
+64957,"Curious Case of Benjamin Button, The (2008)",4.0,Romance
+64969,Yes Man (2008),3.5,Comedy
+65514,Ip Man (2008),4.5,Action
+65514,Ip Man (2008),4.5,Drama
+65514,Ip Man (2008),4.5,War
+66097,Coraline (2009),4.0,Animation
+66097,Coraline (2009),4.0,Fantasy
+66097,Coraline (2009),4.0,Thriller
+66203,He's Just Not That Into You (2009),5.0,Comedy
+66203,He's Just Not That Into You (2009),5.0,Drama
+66203,He's Just Not That Into You (2009),5.0,Romance
+66665,Away We Go (2009),4.0,Comedy
+66665,Away We Go (2009),4.0,Drama
+66665,Away We Go (2009),4.0,Romance
+66934,Dr. Horrible's Sing-Along Blog (2008),4.0,Comedy
+66934,Dr. Horrible's Sing-Along Blog (2008),4.0,Drama
+66934,Dr. Horrible's Sing-Along Blog (2008),4.0,Musical
+66934,Dr. Horrible's Sing-Along Blog (2008),4.0,Sci-Fi
+67087,"I Love You, Man (2009)",4.0,Comedy
+67255,"Girl with the Dragon Tattoo, The (Män som hatar kvinnor) (2009)",4.0,Crime
+67255,"Girl with the Dragon Tattoo, The (Män som hatar kvinnor) (2009)",4.0,Drama
+67255,"Girl with the Dragon Tattoo, The (Män som hatar kvinnor) (2009)",4.0,Mystery
+67255,"Girl with the Dragon Tattoo, The (Män som hatar kvinnor) (2009)",4.0,Thriller
+67429,Sita Sings the Blues (2008),4.0,Animation
+67429,Sita Sings the Blues (2008),4.0,Musical
+67997,In the Loop (2009),5.0,Comedy
+68157,Inglourious Basterds (2009),4.5,Action
+68157,Inglourious Basterds (2009),4.5,Drama
+68157,Inglourious Basterds (2009),4.5,War
+68319,X-Men Origins: Wolverine (2009),3.5,Action
+68319,X-Men Origins: Wolverine (2009),3.5,Sci-Fi
+68319,X-Men Origins: Wolverine (2009),3.5,Thriller
+68358,Star Trek (2009),0.5,Action
+68358,Star Trek (2009),0.5,Adventure
+68358,Star Trek (2009),0.5,Sci-Fi
+68358,Star Trek (2009),0.5,IMAX
+68954,Up (2009),4.0,Adventure
+68954,Up (2009),4.0,Animation
+68954,Up (2009),4.0,Children
+68954,Up (2009),4.0,Drama
+69481,"Hurt Locker, The (2008)",4.5,Action
+69481,"Hurt Locker, The (2008)",4.5,Drama
+69481,"Hurt Locker, The (2008)",4.5,Thriller
+69481,"Hurt Locker, The (2008)",4.5,War
+69526,Transformers: Revenge of the Fallen (2009),2.5,Action
+69526,Transformers: Revenge of the Fallen (2009),2.5,Adventure
+69526,Transformers: Revenge of the Fallen (2009),2.5,Sci-Fi
+69526,Transformers: Revenge of the Fallen (2009),2.5,IMAX
+69640,Public Enemies (2009),3.5,Crime
+69640,Public Enemies (2009),3.5,Drama
+69640,Public Enemies (2009),3.5,Thriller
+69712,My Sister's Keeper (2009),3.5,Drama
+70286,District 9 (2009),4.5,Mystery
+70286,District 9 (2009),4.5,Sci-Fi
+70286,District 9 (2009),4.5,Thriller
+70293,Julie & Julia (2009),4.0,Comedy
+70293,Julie & Julia (2009),4.0,Drama
+70293,Julie & Julia (2009),4.0,Romance
+71057,9 (2009),3.5,Adventure
+71057,9 (2009),3.5,Animation
+71057,9 (2009),3.5,Sci-Fi
+71108,"White Ribbon, The (Das weiße Band) (2009)",4.0,Drama
+71108,"White Ribbon, The (Das weiße Band) (2009)",4.0,Mystery
+71464,"Serious Man, A (2009)",3.5,Comedy
+71464,"Serious Man, A (2009)",3.5,Drama
+72011,Up in the Air (2009),4.0,Drama
+72011,Up in the Air (2009),4.0,Romance
+72131,Michael Jackson's This Is It (2009),4.0,Documentary
+72131,Michael Jackson's This Is It (2009),4.0,Musical
+72131,Michael Jackson's This Is It (2009),4.0,IMAX
+72226,Fantastic Mr. Fox (2009),4.0,Adventure
+72226,Fantastic Mr. Fox (2009),4.0,Animation
+72226,Fantastic Mr. Fox (2009),4.0,Children
+72226,Fantastic Mr. Fox (2009),4.0,Comedy
+72226,Fantastic Mr. Fox (2009),4.0,Crime
+72395,Precious (2009),4.0,Drama
+72720,"Single Man, A (2009)",4.5,Drama
+72998,Avatar (2009),0.5,Action
+72998,Avatar (2009),0.5,Adventure
+72998,Avatar (2009),0.5,Sci-Fi
+72998,Avatar (2009),0.5,IMAX
+73023,Crazy Heart (2009),4.0,Drama
+73023,Crazy Heart (2009),4.0,Romance
+74458,Shutter Island (2010),3.8333333333333335,Drama
+74458,Shutter Island (2010),3.8333333333333335,Mystery
+74458,Shutter Island (2010),3.8333333333333335,Thriller
+74545,"Ghost Writer, The (2010)",4.0,Drama
+74545,"Ghost Writer, The (2010)",4.0,Mystery
+74545,"Ghost Writer, The (2010)",4.0,Thriller
+76251,Kick-Ass (2010),4.0,Action
+76251,Kick-Ass (2010),4.0,Comedy
+77455,Exit Through the Gift Shop (2010),5.0,Comedy
+77455,Exit Through the Gift Shop (2010),5.0,Documentary
+78039,Blue Valentine (2010),4.5,Drama
+78039,Blue Valentine (2010),4.5,Romance
+78209,Get Him to the Greek (2010),2.0,Comedy
+78349,Exam (2009),4.0,Mystery
+78349,Exam (2009),4.0,Thriller
+78499,Toy Story 3 (2010),4.75,Adventure
+78499,Toy Story 3 (2010),4.75,Animation
+78499,Toy Story 3 (2010),4.75,Children
+78499,Toy Story 3 (2010),4.75,Comedy
+78499,Toy Story 3 (2010),4.75,Fantasy
+78499,Toy Story 3 (2010),4.75,IMAX
+78574,Winter's Bone (2010),4.0,Drama
+78574,Winter's Bone (2010),4.0,Thriller
+78653,Everyone Else (Alle Anderen) (2009),3.5,Drama
+78653,Everyone Else (Alle Anderen) (2009),3.5,Romance
+79132,Inception (2010),4.5,Action
+79132,Inception (2010),4.5,Crime
+79132,Inception (2010),4.5,Drama
+79132,Inception (2010),4.5,Mystery
+79132,Inception (2010),4.5,Sci-Fi
+79132,Inception (2010),4.5,Thriller
+79132,Inception (2010),4.5,IMAX
+79242,"Kids Are All Right, The (2010)",4.5,Comedy
+79242,"Kids Are All Right, The (2010)",4.5,Drama
+80463,"Social Network, The (2010)",4.0,Drama
+80489,"Town, The (2010)",4.5,Crime
+80489,"Town, The (2010)",4.5,Drama
+80489,"Town, The (2010)",4.5,Thriller
+81562,127 Hours (2010),4.0,Adventure
+81562,127 Hours (2010),4.0,Drama
+81562,127 Hours (2010),4.0,Thriller
+81591,Black Swan (2010),4.0,Drama
+81591,Black Swan (2010),4.0,Thriller
+81845,"King's Speech, The (2010)",4.0,Drama
+81932,"Fighter, The (2010)",5.0,Drama
+82152,Beastly (2011),3.5,Drama
+82152,Beastly (2011),3.5,Fantasy
+82152,Beastly (2011),3.5,Romance
+82459,True Grit (2010),4.5,Western
+82461,Tron: Legacy (2010),2.0,Action
+82461,Tron: Legacy (2010),2.0,Adventure
+82461,Tron: Legacy (2010),2.0,Sci-Fi
+82461,Tron: Legacy (2010),2.0,IMAX
+82463,Another Year (2010),4.0,Drama
+86320,Melancholia (2011),4.5,Drama
+86320,Melancholia (2011),4.5,Sci-Fi
+86833,Bridesmaids (2011),4.0,Comedy
+87304,Beginners (2010),4.5,Drama
+88125,Harry Potter and the Deathly Hallows: Part 2 (2011),5.0,Action
+88125,Harry Potter and the Deathly Hallows: Part 2 (2011),5.0,Adventure
+88125,Harry Potter and the Deathly Hallows: Part 2 (2011),5.0,Drama
+88125,Harry Potter and the Deathly Hallows: Part 2 (2011),5.0,Fantasy
+88125,Harry Potter and the Deathly Hallows: Part 2 (2011),5.0,Mystery
+88125,Harry Potter and the Deathly Hallows: Part 2 (2011),5.0,IMAX
+88129,Drive (2011),4.0,Crime
+88129,Drive (2011),4.0,Drama
+88129,Drive (2011),4.0,Film-Noir
+88129,Drive (2011),4.0,Thriller
+88235,"Guard, The (2011)",4.0,Comedy
+88235,"Guard, The (2011)",4.0,Crime
+88810,"Help, The (2011)",4.0,Drama
+89260,Project Nim (2011),4.0,Documentary
+89470,Contagion (2011),4.0,Sci-Fi
+89470,Contagion (2011),4.0,Thriller
+89470,Contagion (2011),4.0,IMAX
+89492,Moneyball (2011),4.0,Drama
+89804,"Ides of March, The (2011)",4.5,Drama
+90057,Take Shelter (2011),4.0,Drama
+90376,We Need to Talk About Kevin (2011),4.0,Drama
+90376,We Need to Talk About Kevin (2011),4.0,Thriller
+90439,Margin Call (2011),4.0,Drama
+90439,Margin Call (2011),4.0,Thriller
+90531,Shame (2011),4.0,Drama
+90866,Hugo (2011),4.5,Children
+90866,Hugo (2011),4.5,Drama
+90866,Hugo (2011),4.5,Mystery
+91077,"Descendants, The (2011)",4.5,Comedy
+91077,"Descendants, The (2011)",4.5,Drama
+93040,"Civil War, The (1990)",5.0,Documentary
+93040,"Civil War, The (1990)",5.0,War
+94777,Men in Black III (M.III.B.) (M.I.B.³) (2012),4.5,Action
+94777,Men in Black III (M.III.B.) (M.I.B.³) (2012),4.5,Comedy
+94777,Men in Black III (M.III.B.) (M.I.B.³) (2012),4.5,Sci-Fi
+94777,Men in Black III (M.III.B.) (M.I.B.³) (2012),4.5,IMAX
+94931,Take This Waltz (2011),4.5,Drama
+94931,Take This Waltz (2011),4.5,Romance
+94959,Moonrise Kingdom (2012),3.5,Comedy
+94959,Moonrise Kingdom (2012),3.5,Drama
+94959,Moonrise Kingdom (2012),3.5,Romance
+95135,Your Sister's Sister (2011),4.5,Comedy
+95135,Your Sister's Sister (2011),4.5,Drama
+95449,Magic Mike (2012),4.0,Drama
+95449,Magic Mike (2012),4.0,Romance
+95558,Beasts of the Southern Wild (2012),4.0,Drama
+95558,Beasts of the Southern Wild (2012),4.0,Fantasy
+96588,Pitch Perfect (2012),4.0,Comedy
+96588,Pitch Perfect (2012),4.0,Musical
+96728,"Master, The (2012)",4.0,Drama
+96811,End of Watch (2012),4.0,Crime
+96811,End of Watch (2012),4.0,Drama
+96811,End of Watch (2012),4.0,Thriller
+97304,Argo (2012),4.0,Drama
+97304,Argo (2012),4.0,Thriller
+97673,56 Up (2012),4.5,Documentary
+97752,Cloud Atlas (2012),4.0,Drama
+97752,Cloud Atlas (2012),4.0,Sci-Fi
+97752,Cloud Atlas (2012),4.0,IMAX
+97921,Silver Linings Playbook (2012),4.0,Comedy
+97921,Silver Linings Playbook (2012),4.0,Drama
+97923,Flight (2012),4.5,Drama
+97938,Life of Pi (2012),4.25,Adventure
+97938,Life of Pi (2012),4.25,Drama
+97938,Life of Pi (2012),4.25,IMAX
+98154,Lincoln (2012),4.5,Drama
+98154,Lincoln (2012),4.5,War
+98961,Zero Dark Thirty (2012),4.5,Action
+98961,Zero Dark Thirty (2012),4.5,Drama
+98961,Zero Dark Thirty (2012),4.5,Thriller
+99114,Django Unchained (2012),4.0,Action
+99114,Django Unchained (2012),4.0,Drama
+99114,Django Unchained (2012),4.0,Western
+99149,"Misérables, Les (2012)",4.0,Drama
+99149,"Misérables, Les (2012)",4.0,Musical
+99149,"Misérables, Les (2012)",4.0,Romance
+99149,"Misérables, Les (2012)",4.0,IMAX
+100365,Call Me Kuchu (2012),2.5,Documentary
+101525,"Place Beyond the Pines, The (2012)",4.0,Crime
+101525,"Place Beyond the Pines, The (2012)",4.0,Drama
+101895,42 (2013),4.5,Drama
+102194,Mud (2012),4.0,Adventure
+102194,Mud (2012),4.0,Crime
+102194,Mud (2012),4.0,Drama
+103107,20 Feet from Stardom (Twenty Feet from Stardom) (2013),4.0,Documentary
+103372,"Heat, The (2013)",4.0,Action
+103372,"Heat, The (2013)",4.0,Comedy
+103372,"Heat, The (2013)",4.0,Crime
+103624,Fruitvale Station (2013),4.0,Drama
+104283,"Wind Rises, The (Kaze tachinu) (2013)",4.0,Animation
+104283,"Wind Rises, The (Kaze tachinu) (2013)",4.0,Drama
+104283,"Wind Rises, The (Kaze tachinu) (2013)",4.0,Romance
+104841,Gravity (2013),3.0,Action
+104841,Gravity (2013),3.0,Sci-Fi
+104841,Gravity (2013),3.0,IMAX
+105197,Nebraska (2013),4.5,Adventure
+105197,Nebraska (2013),4.5,Drama
+105355,Blue Is the Warmest Color (La vie d'Adèle) (2013),4.5,Drama
+105355,Blue Is the Warmest Color (La vie d'Adèle) (2013),4.5,Romance
+105504,Captain Phillips (2013),4.5,Adventure
+105504,Captain Phillips (2013),4.5,Drama
+105504,Captain Phillips (2013),4.5,Thriller
+105504,Captain Phillips (2013),4.5,IMAX
+106100,Dallas Buyers Club (2013),3.5,Drama
+106473,One Piece Film Z (2012),3.5,Action
+106473,One Piece Film Z (2012),3.5,Adventure
+106473,One Piece Film Z (2012),3.5,Animation
+106473,One Piece Film Z (2012),3.5,Fantasy
+106696,Frozen (2013),4.5,Adventure
+106696,Frozen (2013),4.5,Animation
+106696,Frozen (2013),4.5,Comedy
+106696,Frozen (2013),4.5,Fantasy
+106696,Frozen (2013),4.5,Musical
+106696,Frozen (2013),4.5,Romance
+106766,Inside Llewyn Davis (2013),4.0,Drama
+106916,American Hustle (2013),5.0,Crime
+106916,American Hustle (2013),5.0,Drama
+106918,"Secret Life of Walter Mitty, The (2013)",5.0,Adventure
+106918,"Secret Life of Walter Mitty, The (2013)",5.0,Comedy
+106918,"Secret Life of Walter Mitty, The (2013)",5.0,Drama
+106920,Her (2013),5.0,Drama
+106920,Her (2013),5.0,Romance
+106920,Her (2013),5.0,Sci-Fi
+107141,Saving Mr. Banks (2013),4.5,Comedy
+107141,Saving Mr. Banks (2013),4.5,Drama
+107649,Borgman (2013),5.0,Thriller
+107999,Dragon ball Z 04: Lord Slug (1991),3.5,Animation
+107999,Dragon ball Z 04: Lord Slug (1991),3.5,Children
+109249,"Journey, The (El viaje) (1992)",5.0,Drama
+109374,"Grand Budapest Hotel, The (2014)",4.75,Comedy
+109374,"Grand Budapest Hotel, The (2014)",4.75,Drama
+109487,Interstellar (2014),5.0,Sci-Fi
+109487,Interstellar (2014),5.0,IMAX
+111384,Blue Ruin (2013),4.0,Thriller
+111622,Begin Again (2013),4.0,Comedy
+111622,Begin Again (2013),4.0,Romance
+111624,Kelly & Cal (2014),3.5,Comedy
+111624,Kelly & Cal (2014),3.5,Drama
+111931,Raze (2013),2.0,Action
+111931,Raze (2013),2.0,Horror
+112183,Birdman: Or (The Unexpected Virtue of Ignorance) (2014),5.0,Comedy
+112183,Birdman: Or (The Unexpected Virtue of Ignorance) (2014),5.0,Drama
+112290,Boyhood (2014),4.5,Drama
+112552,Whiplash (2014),4.0,Drama
+112556,Gone Girl (2014),4.0,Drama
+112556,Gone Girl (2014),4.0,Thriller
+112852,Guardians of the Galaxy (2014),4.0,Action
+112852,Guardians of the Galaxy (2014),4.0,Adventure
+112852,Guardians of the Galaxy (2014),4.0,Sci-Fi
+114342,Force Majeure (Turist) (2014),4.0,Drama
+114662,American Sniper (2014),4.0,Action
+114662,American Sniper (2014),4.0,War
+115569,Nightcrawler (2014),4.5,Crime
+115569,Nightcrawler (2014),4.5,Drama
+115569,Nightcrawler (2014),4.5,Thriller
+115617,Big Hero 6 (2014),4.5,Action
+115617,Big Hero 6 (2014),4.5,Animation
+115617,Big Hero 6 (2014),4.5,Comedy
+115713,Ex Machina (2015),4.5,Drama
+115713,Ex Machina (2015),4.5,Sci-Fi
+115713,Ex Machina (2015),4.5,Thriller
+116161,Foxcatcher (2014),4.0,Drama
+116797,The Imitation Game (2014),3.5,Drama
+116797,The Imitation Game (2014),3.5,Thriller
+116797,The Imitation Game (2014),3.5,War
+117176,The Theory of Everything (2014),4.0,Drama
+117176,The Theory of Everything (2014),4.0,Romance
+117533,Citizenfour (2014),4.0,Documentary
+118997,Into the Woods (2014),4.5,Children
+118997,Into the Woods (2014),4.5,Comedy
+118997,Into the Woods (2014),4.5,Fantasy
+118997,Into the Woods (2014),4.5,Musical
+121231,It Follows (2014),5.0,Horror
+122886,Star Wars: Episode VII - The Force Awakens (2015),4.5,Action
+122886,Star Wars: Episode VII - The Force Awakens (2015),4.5,Adventure
+122886,Star Wars: Episode VII - The Force Awakens (2015),4.5,Fantasy
+122886,Star Wars: Episode VII - The Force Awakens (2015),4.5,Sci-Fi
+122886,Star Wars: Episode VII - The Force Awakens (2015),4.5,IMAX
+127114,The End of the Tour (2015),4.0,Drama
+128360,The Hateful Eight (2015),4.5,Western
+128606,45 Years (2015),4.5,Drama
+130682,Muck (2015),3.5,Horror
+132046,Tomorrowland (2015),3.5,Action
+132046,Tomorrowland (2015),3.5,Adventure
+132046,Tomorrowland (2015),3.5,Children
+132046,Tomorrowland (2015),3.5,Mystery
+132046,Tomorrowland (2015),3.5,Sci-Fi
+133645,Carol (2015),4.0,Drama
+133645,Carol (2015),4.0,Romance
+134130,The Martian (2015),4.5,Adventure
+134130,The Martian (2015),4.5,Drama
+134130,The Martian (2015),4.5,Sci-Fi
+134853,Inside Out (2015),4.5,Adventure
+134853,Inside Out (2015),4.5,Animation
+134853,Inside Out (2015),4.5,Children
+134853,Inside Out (2015),4.5,Comedy
+134853,Inside Out (2015),4.5,Drama
+134853,Inside Out (2015),4.5,Fantasy
+134881,Love & Mercy (2014),4.0,Drama
+135518,Self/less (2015),4.0,Action
+135518,Self/less (2015),4.0,Mystery
+135518,Self/less (2015),4.0,Sci-Fi
+135518,Self/less (2015),4.0,Thriller
+137337,Amy (2015),4.0,Documentary
+139385,The Revenant (2015),3.5,Adventure
+139385,The Revenant (2015),3.5,Drama
+140174,Room (2015),4.0,Drama
+141749,The Danish Girl (2015),4.0,Drama
+142488,Spotlight (2015),4.0,Thriller
+143385,Bridge of Spies (2015),3.5,Drama
+143385,Bridge of Spies (2015),3.5,Thriller
+146501,Land of Storms (2014),2.5,Drama
+146656,Creed (2015),4.0,Drama
+148626,"Big Short, The (2015)",4.5,Drama
+156387,Sing Street (2016),4.0,Drama
+163949,The Beatles: Eight Days a Week - The Touring Years (2016),5.0,Documentary
