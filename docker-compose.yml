@@ -4,6 +4,7 @@ services:
 
   elasticsearch:
     build: elasticsearch/
+    restart: always
     ports:
       - "9200:9200"
       - "9300:9300"
@@ -21,6 +22,7 @@ services:
 
   logstash:
     build: logstash/
+    restart: always
     volumes:
       - ./logstash/config/logstash.yml:/usr/share/logstash/config/logstash.yml
       - ./logstash/pipeline:/usr/share/logstash/pipeline
@@ -35,6 +37,7 @@ services:
 
   kibana:
     build: kibana/
+    restart: always
     volumes:
       - ./kibana/config/:/usr/share/kibana/config
     ports:
@@ -46,6 +49,7 @@ services:
 
   mongo:
     image: mongo
+    restart: always
     volumes:
       - ./data/mongo:/data/db
     ports:
@@ -62,9 +66,12 @@ services:
 
   mongo-express:
     image: mongo-express
+    restart: always
     ports:
       - "8081:8081"
     links:
+      - mongo
+    depends_on:
       - mongo
 
 
