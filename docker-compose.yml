@@ -26,6 +26,8 @@ services:
     volumes:
       - ./logstash/config/logstash.yml:/usr/share/logstash/config/logstash.yml
       - ./logstash/pipeline:/usr/share/logstash/pipeline
+    command:
+      logstash -f /usr/share/logstash/pipeline/logstash.conf
     ports:
       - "5000:5000"
     environment:
@@ -58,7 +60,7 @@ services:
   notebook:
     build: notebook/
     command:
-      start-notebook.sh --NotebookApp.token=""
+      start-notebook.sh --NotebookApp.token="EnviroCours2017"
     volumes:
       - ./data/notebooks:/current_dir
     ports:
