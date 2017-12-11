@@ -67,4 +67,4 @@ WORKDIR /current_dir
 
 USER jovyan
 
-RUN pip install -U scikit-learn
+RUN pip install -U scikit-learn elasticsearch
