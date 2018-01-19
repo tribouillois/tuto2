@@ -22,7 +22,6 @@ services:
 
   logstash:
     build: logstash/
-    restart: always
     volumes:
       - ./logstash/config/logstash.yml:/usr/share/logstash/config/logstash.yml
       - ./logstash/pipeline:/usr/share/logstash/pipeline
